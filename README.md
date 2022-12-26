@@ -1,0 +1,1 @@
+I am following along with Automate the Boring Stuff in Python. This is the rock, paper, scissors game in python where I am practicing while loops, understanding the percentage (modulus) operator in terms of assigning variables to keep track of the wins, losses and ties within the game, as well as furthering my understanding of flow statements and nesting while loops.
